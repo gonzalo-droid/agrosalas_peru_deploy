@@ -1,0 +1,42 @@
+# Agrosalas Peru E.I.R.L.
+
+> Peruvian agro-industrial company that produces and exports canned foods: legumes (beans, lima beans, pigeon peas, chickpeas, zarandaja) and red bell pepper. Family-run, founded in 2021, with presence in Spain, the United States and Panama. B2B supplier for importers, distributors and retailers.
+
+The site is bilingual. English pages live under `/en/`; the same pages in Spanish use the URL without the `/en` prefix (for example `/en/products` and `/products`). Every product is canned (category "Conservas"). Prices, formats and minimum order quantities are quoted on request.
+
+## Main pages
+
+- [Home](https://agrosalasperu.com/en): company overview and featured products
+- [Product catalog](https://agrosalasperu.com/en/products): full list of canned products
+- [About us](https://agrosalasperu.com/en/about): history, mission and values
+- [Events](https://agrosalasperu.com/en/events): trade fairs and business meetings we take part in
+- [Contact](https://agrosalasperu.com/en/contact): quote requests and contact form
+
+## Products
+
+- [Castilla Bean (Blackeye)](https://agrosalasperu.com/en/products/frijol-castilla): Peruvian castilla bean, cooked and preserved in brine.
+- [Red Kidney Bean](https://agrosalasperu.com/en/products/frijol-rojo): canned red kidney bean, ready for multiple recipes.
+- [Canary Bean](https://agrosalasperu.com/en/products/frijol-canario): canned canary bean with a smooth texture, for traditional dishes.
+- [Black Bean](https://agrosalasperu.com/en/products/frijol-negro): black beans cooked in brine, ready to use.
+- [Pigeon Peas in Water and Salt](https://agrosalasperu.com/en/products/gandul-agua-sal): pigeon peas cooked and preserved in salted water.
+- [Pigeon Peas with Coconut](https://agrosalasperu.com/en/products/gandul-coco): pigeon peas cooked in coconut milk.
+- [Dry Pigeon Peas](https://agrosalasperu.com/en/products/gandul-seco): selected dry pigeon peas, ready to cook.
+- [American Lima Bean](https://agrosalasperu.com/en/products/pallar-americano): canned American lima bean.
+- [Baby Lima Bean](https://agrosalasperu.com/en/products/pallar-bebe): Peruvian baby lima bean in brine.
+- [Lima Bean in Brine](https://agrosalasperu.com/en/products/pallar-salmuera): Peruvian lima bean cooked and preserved in natural brine.
+- [Bell Pepper](https://agrosalasperu.com/en/products/pimiento-morron): canned red bell pepper.
+- [Zarandaja (Val Bean)](https://agrosalasperu.com/en/products/zarandaja): canned zarandaja, a versatile legume.
+- [Chickpea](https://agrosalasperu.com/en/products/garbanzo): chickpea cooked in brine.
+
+## Contact
+
+- Email: ventas@agrosalasperu.com
+- WhatsApp / phone: +51 917 196 172 (https://wa.me/51917196172)
+- Instagram: https://www.instagram.com/agrosalasperusrl/
+- LinkedIn: https://www.linkedin.com/company/agrosalasperu
+
+## Optional
+
+- [Expoalimentaria 2026](https://agrosalasperu.com/en/events/expoalimentaria-2026): international food fair in Lima, Peru (September 2026)
+- [Expo Perú Norte 2026](https://agrosalasperu.com/en/events/expo-peru-norte-2026): PromPerú business roundtable in Chiclayo, Peru (March 2026)
+- [Sitemap](https://agrosalasperu.com/sitemap.xml): every page in both languages
