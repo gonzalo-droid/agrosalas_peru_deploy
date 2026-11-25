@@ -32,7 +32,7 @@ The site is bilingual. English pages live under `/en/`; the same pages in Spanis
 
 - Email: ventas@agrosalasperu.com
 - WhatsApp / phone: +51 917 196 172 (https://wa.me/51917196172)
-- Instagram: https://www.instagram.com/agrosalasperusrl/
+- Instagram: https://www.instagram.com/agro.salas.peru/
 - LinkedIn: https://www.linkedin.com/company/agrosalasperu
 
 ## Optional
